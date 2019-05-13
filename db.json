@@ -1,3 +1,7 @@
 {
-  "show": "0"
+  "values": [
+      {
+          "show": "false"
+      }
+    ]
 }
